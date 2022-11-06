@@ -1,1 +1,1 @@
-# module-3-challenge-pasword-generator
+# module-3-challenge-password-generator
